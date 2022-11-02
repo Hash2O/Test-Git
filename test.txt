@@ -1,1 +1,3 @@
-Ceci est un test pour Git
+Ceci est un test pour Git.
+
+Ajout d'une nouvelle phrase dans ce dossier.
